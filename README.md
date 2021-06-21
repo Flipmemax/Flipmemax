@@ -5,7 +5,7 @@
 
 🤠 My name is Max, I'm from The Netherlands🇳🇱, and I'm a full-stack web development student at [Codaisseur](https://codaisseur.com/) 🚀
 
-I've always been super interested in technology and computers and everything that comes with it. So in April 2021 I decided to start the 11 week bootcamp @Codaisseur! I've learned a lot in a very short period of time, but still have a lot to learn as well, this is just the start of my journey as a developer and I'm very eager to find out what the future holds!🚀
+I've always been super interested in technology and computers and everything that comes with it. So in April 2021 I decided to start the 11 week bootcamp at **Codaisseur**! I've learned a lot in a very short period of time, but still have a lot to learn as well, this is just the start of my journey as a developer and I'm very eager to find out what the future holds!🚀
 
 📫 You can find me on [LinkedIn](https://https://www.linkedin.com/in/max-philippus-hoogland-a15635210/)
 
