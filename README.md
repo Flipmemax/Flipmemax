@@ -11,7 +11,7 @@ I've always been super interested in technology and computers and everything tha
 
 ### Projects ###
 
-I'm currently working on my first project: **PlayList** -- This project is part of the [Codaisseur](https://codaisseur.com) bootcamp.
+**PlayList** -- This project is part of the [Codaisseur](https://codaisseur.com) bootcamp.
 
 [PlayList Frontend Repo](https://github.com/Flipmemax/PlayList-frontend)
 
