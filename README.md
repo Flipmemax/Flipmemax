@@ -3,7 +3,7 @@
 ### Welcome to my GitHub profile! ###
 
 
-🤠 My name is Max, I'm from The Netherlands🇳🇱, and I'm a full-stack junior web developer who recently graduated from [Codaisseur](https://codaisseur.com/) 🚀
+🤠 My name is Max, I'm from The Netherlands🇳🇱, I'm a web developer who graduated from [Codaisseur](https://codaisseur.com/) in 2021🚀
 
 I've always been super interested in technology and computers and everything that comes with it. So in April 2021 I decided to start the 11 week bootcamp at **Codaisseur**! I've learned a lot in a very short period of time, but still have a lot to learn as well, this is just the start of my journey as a developer and I'm very eager to find out what the future holds!🚀
 
